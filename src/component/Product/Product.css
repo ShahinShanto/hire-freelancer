@@ -1,0 +1,20 @@
+.image{
+    height:180px ;
+    width: 180px;
+    
+}
+.btn-color{
+    color: white;
+    background-color: rgb(58, 177, 224);
+}
+.btn-color:hover{
+    color:black;
+    background-color: white;
+    border:2px solid rgb(58, 177, 224);
+}
+.brdr{
+    border:1px solid rgb(58, 177, 224);
+}
+.img-border{
+    border:3px solid rgb(58, 177, 224);
+}

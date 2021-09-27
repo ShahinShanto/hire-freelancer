@@ -1,0 +1,110 @@
+[
+    {
+        "key": 1,
+        "name": "Robert Bruce",
+        "expertize": "Ui/Ux Designer",
+        "project": 467,
+        "country": "USA",
+        "salary": 120000,
+        "img": "https://media.istockphoto.com/photos/portrait-of-smiling-handsome-man-in-blue-tshirt-standing-with-crossed-picture-id1045886560?k=20&m=1045886560&s=612x612&w=0&h=JL8Dy_sRUXJo6PofsX7XkQpWjSTDhD8LuV071LMlb3Y="
+    },
+    {
+        "key": 2,
+        "name": "David John",
+        "expertize": "Graphic Designer",
+        "project": 742,
+        "country": "Brazil",
+        "salary": 80000,
+        "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg"
+    },
+    {
+        "key": 3,
+        "name": "George Kevin",
+        "expertize": "SEO",
+        "project": 548,
+        "country": "Bulgaria",
+        "salary": 70000,
+        "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "key": 4,
+        "name": "Anthony Paul",
+        "expertize": "Frontend Developer",
+        "project": 887,
+        "country": "Colombia",
+        "salary": 170000,
+        "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg"
+    },
+    {
+        "key": 5,
+        "name": "Edward Jason",
+        "expertize": "Wordpress Developer",
+        "project": 733,
+        "country": "Denmark",
+        "salary": 100000,
+        "img": "https://us.123rf.com/450wm/luismolinero/luismolinero1909/luismolinero190917934/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in-frontal-p.jpg?ver=6"
+    },
+    {
+        "key": 6,
+        "name": "William Carry",
+        "expertize": "Fullstack Developer",
+        "project": 1007,
+        "country": "USA",
+        "salary": 180000,
+        "img": "https://cdn.shopify.com/s/files/1/0045/5104/9304/t/27/assets/AC_ECOM_SITE_2020_REFRESH_1_INDEX_M2_THUMBS-V2-1.jpg?v=8913815134086573859"
+    },
+    {
+        "key": 7,
+        "name": "Sushmita Sen",
+        "expertize": "Web Designer",
+        "project": 567,
+        "country": "India",
+        "salary": 120000,
+        "img": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?size=626&ext=jpg"
+    },
+    {
+        "key": 8,
+        "name": "Emma",
+        "expertize": "Content Writer",
+        "project": 1104,
+        "country": "South Africa",
+        "salary": 70000,
+        "img": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg?size=626&ext=jpg"
+    },
+    {
+        "key": 9,
+        "name": "Shahin",
+        "expertize": "PHP Developer",
+        "project": 743,
+        "country": "Bangladesh",
+        "salary": 130000,
+        "img": "https://img.freepik.com/free-photo/caucasian-handsome-man-posing-with-arms-hip-smiling-isolated-purple-wall_1368-89876.jpg?size=626&ext=jpg"
+    },
+    {
+        "key": 10,
+        "name": "Steven",
+        "expertize": "Java Developer",
+        "project": 457,
+        "country": "Colombia",
+        "salary": 140000,
+        "img": "https://media.istockphoto.com/photos/portrait-of-a-handsome-black-man-picture-id1289461328?b=1&k=20&m=1289461328&s=170667a&w=0&h=SpRhSvRMO7UkXWo52mV9bf0bo6au6kC-2wsOGsQ0D2Y="
+    },
+    {
+        "key": 11,
+        "name": "Andrew Russel",
+        "expertize": "DotNet Developer",
+        "project": 1520,
+        "country": "Netherland",
+        "salary": 150000,
+        "img": "https://img.freepik.com/free-photo/cheerful-young-sports-man-posing-showing-thumbs-up-gesture_171337-8194.jpg?size=626&ext=jpg"
+    },
+    {
+        "key": 12,
+        "name": "Sophia",
+        "expertize": "OA Engineer",
+        "project": 967,
+        "country": "USA",
+        "salary": 220000,
+        "img": "https://media.istockphoto.com/photos/smiling-businesswoman-looking-at-camera-webcam-make-conference-call-picture-id1129638608?k=20&m=1129638608&s=612x612&w=0&h=AUoSDsGI9b-f_izlotPYpYb1nQ34YUvIlU6S4B1zJug="
+    }
+]
